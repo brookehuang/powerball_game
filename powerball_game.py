@@ -14,3 +14,4 @@ def powerball():
     print(num1,num2,num3,num4,num5,red_num)
 
 #####这是随便写的####
+####第一遍没有用，再来一次###
