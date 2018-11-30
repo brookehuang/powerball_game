@@ -13,3 +13,4 @@ def powerball():
     red_num=random.randint(1,26)
     print(num1,num2,num3,num4,num5,red_num)
 
+#####这是随便写的####
